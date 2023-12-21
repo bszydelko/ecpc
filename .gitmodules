@@ -1,0 +1,3 @@
+[submodule "ivde"]
+	path = DepthEstimator/ivde
+	url = https://gitlab.com/mpeg-i-visual/ivde.git

@@ -1,0 +1,23 @@
+{
+    "TotalNumberOfFrames": 1,
+    "NumOfThreads": 4,
+    "NeighboringSegmentsDepthAnalysis": true,
+    "NumberOfZSteps": 256,
+    "NumberOfSuperpixels": 50000,
+    "MatchNeighbors": 4,
+    "MatchThresh": 30,
+    "Matcher": "Block",
+    "MatchingBlockSize": 1,
+    "NumberOfCycles": 2,
+    "SuperpixelSegmentationType": "SNIC",
+    "SuperpixelColorCoeff": 20,
+    "TemporalEnhancement": 2,
+    "TemporalEnhancementIFramePeriod": 17,
+    "TemporalEnhancementThresh": 0.5,
+    "NumberOfCyclesInIFrame": 1,
+    "StartFrame": 0,
+    "UseFeatures": false,
+    "UseSkipFlag": false,
+    "BitDepthFeatures": 16,
+    "AutomaticDepthRange": false
+}

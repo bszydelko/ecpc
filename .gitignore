@@ -1,0 +1,5 @@
+TestScene/render/depth/*.png
+TestScene/render/depth/*.yuv
+TestScene/render/texture/*.mp4
+TestScene/render/texture/*.yuv
+TestScene/scene.blend1

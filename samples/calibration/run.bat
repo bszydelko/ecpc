@@ -1,0 +1,1 @@
+.\..\calibrateCameras.py -ncams 20 -camrange 0:1:19 -npoints 667 -r markerPositions.txt -i initialParams.json -o calibParams.json
